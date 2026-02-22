@@ -1,0 +1,5 @@
+{
+  "name": "QA CI/CD Demo",
+  "image": "mcr.microsoft.com/playwright:v1.41.2-jammy",
+  "postCreateCommand": "npm install"
+}
